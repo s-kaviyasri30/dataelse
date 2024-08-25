@@ -1,0 +1,14 @@
+class HelloWorld {
+    public static void main(String[] args) {
+        scanner scan = new scanner(system.in);
+        string RCE = scan.nextline();
+        
+        if(RCE.equals("win"));
+        {
+        System.out.println("ee sal la cup namathey");
+    }
+    else
+    {
+        system.out.println("no cup");
+    }
+}
